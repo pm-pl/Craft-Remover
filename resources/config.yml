@@ -1,3 +1,4 @@
+# item identifier (not name of the item)
 remove-craft:
   - "stick"
   - "copper_ingot"

@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ValresMC/Craft-Remover
+build-by-default: true
+branches:
+- main
+projects:
+  Craft-Remover:
+    path: ""
+...

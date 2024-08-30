@@ -1,6 +1,6 @@
 <?php
 
-namespace CraftRemover;
+namespace Valres\CraftRemover;
 
 use pocketmine\crafting\ShapedRecipe;
 use pocketmine\crafting\ShapelessRecipe;

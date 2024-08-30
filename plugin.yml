@@ -2,4 +2,4 @@ name: Craft-Remover
 author: Atom-Valres
 version: 1.0.0
 api: [5.0.0]
-main: CraftRemover\Main
+main: Valres\CraftRemover\Main

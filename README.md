@@ -1,3 +1,5 @@
+<a href="https://poggit.pmmp.io/p/Craft-Remover"><img src="https://poggit.pmmp.io/shield.dl/Craft-Remover"></a>
+
 ## General:
 Craft-Remover is a plugin that allows you to remove crafts on your server
 
